@@ -1,4 +1,4 @@
-# Training-materials-for-RI
+# Welcome to Training-materials-for-RI
 welcome to the reporisoty of training materials for professional skills needed by research infrastructure scientists. 
 
 ## How to contribute
