@@ -9,7 +9,7 @@
 ## Target audience
 ARISE fellows
 
-#Learning outcomes
+# Learning outcomes
 Define at least 5 learning outcomes using the Bloom’s taxonomy, while considering the branche needs (both academia and industry)
 specific skills, knowledge, and competencies learners will acquire. using action verbs aligned with Bloom's Taxonomy
 
@@ -24,14 +24,18 @@ EXAMPLE
 | Ability to remember/recall facts and concepts   | Define, Identify, Describe, Recognize, List, Label, Recall, Repeat, Match,  Select | 
 
 
-| Learning outcomes | Described using the Bloom’s taxonomy vocabulary | 
-|Learning outcome 1|----------------------------|
-|Learning outcome 2|----------------------------|
-|Learning outcome 3|----------------------------|
-|Learning outcome 4|----------------------------|
-|Learning outcome 5|----------------------------|
+| Learning outcome | Described using Bloom's taxonomy vocabulary | 
+|----------|----------|
+| Learning outcome 1   | enter text  | 
+| Learing outcome 2   | enter text  | 
+| Learning outcome 3   | enter text| 
+| Learning outcome 4  | enter text| 
+| Learning outcome 5  | enter text | 
+|------  | Data 2   | 
+| -----   | Data 2   | 
 
-#course level
+
+# course level
 Categorise the course level using the following EQF scale
 Level 1: Basic skills, with minimal supervision
 Level 2: Basic operational skills, under supervision /short vocational training
